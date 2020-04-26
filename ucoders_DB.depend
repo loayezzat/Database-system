@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566246815 source:c:\users\loay\desktop\c programs\ucoders_db\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
